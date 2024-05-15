@@ -2,7 +2,7 @@
 
 ## All about the project
 
-This project aims to develop a pagination component in React for efficiently displaying products fetched from an API. Pagination is a crucial aspect of user interface design, especially when dealing with large datasets, to enhance user experience by breaking content into manageable chunks.
+This project aims to develop a pagination component in React for efficiently displaying products fetched from an API. Pagination is a crucial aspect of user interface design, especially when dealing with large datasets, to enhance user experience by breaking content into manageable chunks. Use this layout to list your products and you are free for customization!!
 
 ## Features:
 
